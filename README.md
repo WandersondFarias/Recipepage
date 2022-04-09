@@ -1,4 +1,4 @@
-## <a href="https://viniciusmouzinho.github.io/recipepage/"> 👩‍🍳 Recipe Page</a>
+## <a href="https://github.com/wandersondefariasprogramador"> 👩‍🍳 Recipe Page</a>
 
 ## ✏️  Descrição 
 Desafio proposto pela Trilha Discover da @Rocketseat
